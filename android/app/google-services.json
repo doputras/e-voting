@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023440542110",
+    "project_id": "tubes-uts-53c84",
+    "storage_bucket": "tubes-uts-53c84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023440542110:android:26c4de68cf66b6b33fde8f",
+        "android_client_info": {
+          "package_name": "com.example.tubesuts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023440542110-m5384e1ji3bi8i81ton5l2nfchi3efup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAflq_YAimrXj-t5lUUxp2gtWLiG6T1gpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023440542110-m5384e1ji3bi8i81ton5l2nfchi3efup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
