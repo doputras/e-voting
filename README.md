@@ -24,13 +24,13 @@ Repo: [doputras/e-voting](https://github.com/doputras/e-voting)
 
 ---
 
-## 📂 Struktur Proyek (Singkat)
-lib/
-├── main.dart # Entry point aplikasi
-├── screens/ # Halaman UI
-├── widgets/ # Widget custom
-├── models/ # Model data
-└── services/ # Service / API handler
+## 📂 Struktur Proyek
+lib
+- main.dart # Entry point aplikasi
+- screens/ # Halaman UI
+- widgets/ # Widget custom
+- models/ # Model data
+- services/ # Service / API handler
 
 ---
 
@@ -39,18 +39,18 @@ lib/
    ```bash
    git clone https://github.com/doputras/e-voting.git
    cd e-voting
-Install dependencies:
-bash
-Copy code
-flutter pub get
-Jalankan aplikasi:
+2. Install dependencies:
+   ```bash
+   Copy code
+   flutter pub get
+   ```
+3. Jalankan aplikasi:
+   ```bash
+   Copy code
+   flutter run
+   ```
+---
 
-bash
-Copy code
-flutter run
-📸 Screenshot
-(Tambahkan screenshot aplikasi di sini untuk memperjelas tampilan UI)
-
-**👨‍💻 Kontributor**
-doputras
+## 👨‍💻 Kontributor
+   @doputras
 
